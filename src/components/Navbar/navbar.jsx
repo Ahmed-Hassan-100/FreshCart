@@ -81,7 +81,7 @@ export default function Navbar() {
               )}
 
               <li className="space-x-2 text-black">
-                <a target="blank" href="https://www.facebook.com/Doollaaa">
+                <a target="blank" href="https://www.facebook.com">
                   <i className="fab fa-facebook-f cursor-pointer"></i>
                 </a>
                 <a
